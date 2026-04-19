@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  font-size: 20px;
+}
+
+* {
+  font-family: 'Segoe UI', 'Arial', sans-serif;
+}
+
+.progress-bar {
+  transition: width 0.3s ease;
+}
